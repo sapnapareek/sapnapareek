@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**sapnapareek/sapnapareek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Sapna
 
 ### I'm a Masters Student at UNC Charlotte
 - I'm a Data Scientist and a Software Engineer
