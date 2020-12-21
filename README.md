@@ -3,7 +3,7 @@
 ### I'm a Masters Student at UNC Charlotte
 - I'm a Data Scientist and a Software Engineer
 - I'm always learning
-- 2020 Goals: Contribute more to Open Source projects
+- 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />][linkedin]
